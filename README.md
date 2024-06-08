@@ -1,6 +1,6 @@
 
 # iOS-Developer-Portfolio
-👋 Hi! I'm a self-taught iOS Developer. I have 7+ years of experience in iOS App developement. Here's a bit of what I've been working on.
+👋 Hi! I'm a self-taught iOS Software Engineer. I have 7+ years of experience in iOS App developement. Here's a bit of what I've been working on.
 
 # [AI-Handy](https://www.ploonet.com/son)
 
