@@ -1,6 +1,6 @@
 
 # iOS-Developer-Portfolio
-👋 Hi! I'm a self-taught iOS Software Engineer. I have 7+ years of experience in iOS App developement. Here's a bit of what I've been working on.
+👋 Hi! I'm a self-taught Senior iOS Software Engineer with over 12 years of extensive experience in the IT industry, specializing in pioneering iOS development for the past 7+ years. Expert in orchestrating high-performance engineering teams and spearheading the creation of innovative, scalable mobile applications. Proficient in Swift, Objective-C, and state-of-the-art iOS frameworks, with a demonstrated ability to optimize performance and elevate user experiences. Skilled in architecting robust solutions, integrating complex APIs, and driving agile methodologies to ensure seamless delivery of high-impact projects. Strategic thinker and transformative leader committed to advancing technology solutions that drive business growth and excellence.
 
 # [AI-Handy](https://www.ploonet.com/son)
 
